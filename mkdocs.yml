@@ -7,8 +7,8 @@ site_author: Darinka Carvajal
 site_description:
 
 # Repository
-repo_name: fralfaro/DS-Python-Course
-repo_url: https://github.com/fralfaro/DS-Python-Course
+repo_name: dariemilith/curso_prueba_reunion
+repo_url: https://github.com/dariemilith/curso_prueba_reunion
 edit_uri: ''
 
 
@@ -90,4 +90,6 @@ nav:
     - Manipulación Datos:
         - pandas.ipynb
         - seaborn.ipynb
+    - Clases de Prueba:
+        
 
