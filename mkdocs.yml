@@ -1,14 +1,14 @@
 # Copyright (c) 2016-2022 Martin Donath <martin.donath@squidfunk.com>
 
 # Project information
-site_name: Puedo poner una introduccion, este curso es de prueba.
-site_url: https://github.com/dariemilith/curso_prueba_reunion
+site_name: Descripcion del Curso. 
+site_url: https://github.com/dariemilith/Template_Curso_Python
 site_author: Darinka Carvajal
 site_description:
 
 # Repository
-repo_name: dariemilith/curso_prueba_reunion
-repo_url: https://github.com/dariemilith/curso_prueba_reunion
+repo_name: dariemilith/Template_Curso_Python
+repo_url: https://github.com/dariemilith/Template_Curso_Python
 edit_uri: ''
 
 
@@ -68,11 +68,11 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/fralfaro
+      link: https://github.com/dariemilith
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/faam/
     - icon: fontawesome/solid/globe
-      link: https://fralfaro.github.io/portfolio/
+      link: https://dariemilith.github.io/portfolio/
 
 
 # Plugins
