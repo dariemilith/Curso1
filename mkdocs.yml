@@ -1,7 +1,7 @@
 # Copyright (c) 2016-2022 Martin Donath <martin.donath@squidfunk.com>
 
 # Project information
-site_name: Descripcion del Curso. 
+site_name: Curso:  
 site_url: https://github.com/dariemilith/Template_Curso_Python
 site_author: Darinka Carvajal
 site_description:
@@ -82,16 +82,13 @@ plugins:
   - search
 
 # TOC
-nav:
-    - Home: index.md
+nav: # paginas que apareceran dentro
+    - Home: index.md  
     - Conceptos Básicos:
         - intro.ipynb
         - basic.ipynb
     - Manipulación Datos:
         - pandas.ipynb
         - seaborn.ipynb
-    - Clases de Prueba:
-        - seaborn.ipynb
-        - Fundamentos_Programacion_Ciencia_de_Datos_Python.ipynb
         
 
