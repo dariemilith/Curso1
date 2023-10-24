@@ -1,7 +1,7 @@
 # Curso de Python (---)
 
-![example workflow](https://github.com/dariemilith/curso_prueba_reunion/actions/workflows/documentation.yml/badge.svg)
-<a href="https://dariemilith.github.io/curso_prueba_reunion/"><img alt="Link a la Documentación" src="https://img.shields.io/badge/docs-link-brightgreen"></a>
+![example workflow](https://github.com/dariemilith/Template_Curso_Python/actions/workflows/documentation.yml/badge.svg)
+<a href="https://dariemilith.github.io/Template_Curso_Python/"><img alt="Link a la Documentación" src="https://img.shields.io/badge/docs-link-brightgreen"></a>
 
 
 ## Descripción del Repositorio
@@ -72,14 +72,14 @@ donde:
 ### [Readme.md](README.md)
 
 ```
-![example workflow](https://github.com/fralfaro/DS-Python-Course/actions/workflows/documentation.yml/badge.svg)
-<a href="https://fralfaro.github.io/DS-Python-Course/"><img alt="Link a la Documentación" src="https://img.shields.io/badge/docs-link-brightgreen"></a>
+![example workflow](https://github.com/dariemilith/Template_Curso_Python/actions/workflows/documentation.yml/badge.svg)
+<a href="https://dariemilith.github.io/Template_Curso_Python/"><img alt="Link a la Documentación" src="https://img.shields.io/badge/docs-link-brightgreen"></a>
 ```
 
 Debe cambiar:
 
-* **fralfaro**: nombre de usuario en github.
-* **DS-Python-Course**: nombre del curso.
+* **dariemilith**: nombre de usuario en github.
+* **Template_Curso_Python**: nombre del curso.
 
 ### [`mkdocs.yml`](mkdocs.yml)
 
@@ -87,21 +87,21 @@ Debe cambiar:
 
 ```
 # Project information
-site_name: Home
-site_url: https://github.com/fralfaro/DS-Python-Course
-site_author: Francisco Alfaro
+site_name: Descripcion del curso
+site_url: https://github.com/dariemilith/Template_Curso_Python
+site_author: Darinka Carvajal
 site_description:
 
 # Repository
-repo_name: fralfaro/DS-Python-Course
-repo_url: https://github.com/fralfaro/DS-Python-Course
+repo_name: dariemilith/Template_Curso_Python
+repo_url: https://github.com/dariemilith/Template_Curso_Python
 edit_uri: ''
 ```
 
 Debe cambiar:
 
-* **fralfaro**: nombre de usuario en github.
-* **DS-Python-Course**: nombre del curso.
+* **dariemilith**: nombre de usuario en github.
+* **Template_Curso_Python**: nombre del curso.
 * **site_author**: Nombre del autor
 
 **Sección**: Theme
@@ -125,11 +125,11 @@ Debe cambiar:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/fralfaro
+      link: https://github.com/dariemilith
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/faam/
     - icon: fontawesome/solid/globe
-      link: https://fralfaro.github.io/portfolio/
+      link: https://dariemilith.github.io/portfolio/
 ```
 En esta sección se agregan las redes sociales 
 que ustedes maneja (más detalles, 
@@ -160,7 +160,7 @@ En esta sección se agregan los archivos `.ipynb` que necesita agregar a su docu
 name = "docs"
 version = "0.1.0"
 description = "mkdocs - courses"
-authors = ["Francisco Alfaro <francisco.alfaro.496@gmail.com>"]
+authors = ["Darinka Carvajal <darinka.carvajal.m@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 ```
@@ -176,10 +176,10 @@ Introducción básica a Python
 
 ## Material
 
-El material está disponible en el siguiente [repositorio](https://github.com/fralfaro/DS-Python-Course), para obtener el código de fuente basta con que ejecutes el siguiente comando:
+El material está disponible en el siguiente [repositorio](https://github.com/dariemilith/Template_Curso_Python), para obtener el código de fuente basta con que ejecutes el siguiente comando:
 
 
-> `https://github.com/fralfaro/DS-Python-Course`
+> `https://github.com/dariemilith/Template_Curso_Python`
 
 
 ## Contenidos temáticos
@@ -192,8 +192,8 @@ El material está disponible en el siguiente [repositorio](https://github.com/fr
 
 Debe cambiar:
 
-* **fralfaro**: nombre de usuario en github.
-* **DS-Python-Course**: nombre del curso.
+* **dariemilith**: nombre de usuario en github.
+* **Template_Curso_Python**: nombre del curso.
 
 
 > **Nota**: Si necesita customizar su repositorio, se recomienda leer el siguiente [link](https://squidfunk.github.io/mkdocs-material/).
