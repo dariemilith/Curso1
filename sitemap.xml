@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://github.com/dariemilith/curso_prueba_reunion/</loc>
+         <loc>https://github.com/dariemilith/Template_Curso_Python/</loc>
          <lastmod>2023-10-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/dariemilith/curso_prueba_reunion/__init__/</loc>
+         <loc>https://github.com/dariemilith/Template_Curso_Python/__init__/</loc>
          <lastmod>2023-10-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/dariemilith/curso_prueba_reunion/basic/</loc>
+         <loc>https://github.com/dariemilith/Template_Curso_Python/basic/</loc>
          <lastmod>2023-10-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/dariemilith/curso_prueba_reunion/intro/</loc>
+         <loc>https://github.com/dariemilith/Template_Curso_Python/intro/</loc>
          <lastmod>2023-10-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/dariemilith/curso_prueba_reunion/pandas/</loc>
+         <loc>https://github.com/dariemilith/Template_Curso_Python/pandas/</loc>
          <lastmod>2023-10-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/dariemilith/curso_prueba_reunion/seaborn/</loc>
+         <loc>https://github.com/dariemilith/Template_Curso_Python/seaborn/</loc>
          <lastmod>2023-10-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
