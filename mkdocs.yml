@@ -83,7 +83,6 @@ plugins:
 
 # TOC
 nav: 
-# paginas que apareceran dentro
     - Home: index.md  
     - Conceptos Básicos:
         - intro.ipynb
