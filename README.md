@@ -160,7 +160,7 @@ En esta sección se agregan los archivos `.ipynb` que necesita agregar a su docu
 name = "docs"
 version = "0.1.0"
 description = "mkdocs - courses"
-authors = ["Darinka Carvajal <darinka.carvajal.m@gmail.com>"]
+authors = ["Darinka Carvajal <darinka1998@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 ```
