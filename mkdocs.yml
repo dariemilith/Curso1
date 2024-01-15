@@ -1,10 +1,11 @@
 # Copyright (c) 2016-2022 Martin Donath <martin.donath@squidfunk.com>
 
 # Project information
-site_name: Curso:  
+site_name: Nombre curso  
 site_url: https://github.com/dariemilith/Template_Curso_Python
 site_author: Darinka Carvajal
 site_description:
+
 
 # Repository
 repo_name: dariemilith/Template_Curso_Python
