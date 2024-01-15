@@ -70,7 +70,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/dariemilith
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/faam/
+      link: https://www.linkedin.com/in/darinka-carvajal-miranda-304272138/
     - icon: fontawesome/solid/globe
       link: https://dariemilith.github.io/portfolio/
 
@@ -90,5 +90,6 @@ nav:
     - Manipulación Datos:
         - pandas.ipynb
         - seaborn.ipynb
+    - Clase 1: 
         
 
