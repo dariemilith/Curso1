@@ -6,32 +6,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/dariemilith/Curso1/Clase1/</loc>
+         <loc>https://github.com/dariemilith/Curso1/Intro_curso/</loc>
          <lastmod>2024-01-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/dariemilith/Curso1/__init__/</loc>
-         <lastmod>2024-01-27</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/dariemilith/Curso1/basic/</loc>
-         <lastmod>2024-01-27</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/dariemilith/Curso1/intro/</loc>
-         <lastmod>2024-01-27</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/dariemilith/Curso1/pandas/</loc>
-         <lastmod>2024-01-27</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/dariemilith/Curso1/seaborn/</loc>
          <lastmod>2024-01-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
