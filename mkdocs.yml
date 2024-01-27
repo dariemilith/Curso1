@@ -2,14 +2,14 @@
 
 # Project information
 site_name: Nombre curso  
-site_url: https://github.com/dariemilith/Template_Curso_Python
+site_url: https://github.com/dariemilith/Curso1
 site_author: Darinka Carvajal
 site_description:
 
 
 # Repository
-repo_name: dariemilith/Template_Curso_Python
-repo_url: https://github.com/dariemilith/Template_Curso_Python
+repo_name: dariemilith/Curso1
+repo_url: https://github.com/dariemilith/Curso1
 edit_uri: ''
 
 
@@ -85,9 +85,6 @@ plugins:
 # TOC
 nav: 
     - Home: index.md  
-    - Conceptos Básicos:
+    - Introducción a la Estadística y Ciencia de Datos:
         - intro.ipynb
         - basic.ipynb
-    - Manipulación Datos:
-        - pandas.ipynb
-        - seaborn.ipynb
