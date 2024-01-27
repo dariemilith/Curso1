@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://github.com/dariemilith/Curso1/</loc>
+         <loc>https://github.com/dariemilith/DS_Intro_Estadistica_Curso/</loc>
          <lastmod>2024-01-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/dariemilith/Curso1/Intro_curso/</loc>
+         <loc>https://github.com/dariemilith/DS_Intro_Estadistica_Curso/Intro_curso/</loc>
          <lastmod>2024-01-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/dariemilith/Curso1/__init__/</loc>
+         <loc>https://github.com/dariemilith/DS_Intro_Estadistica_Curso/__init__/</loc>
          <lastmod>2024-01-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
