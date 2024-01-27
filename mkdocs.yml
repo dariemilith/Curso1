@@ -1,7 +1,7 @@
 # Copyright (c) 2016-2022 Martin Donath <martin.donath@squidfunk.com>
 
 # Project information
-site_name: Nombre curso  
+site_name: Fundamentos Estadísticos para la Ciencia de Datos en Python y R
 site_url: https://github.com/dariemilith/Curso1
 site_author: Darinka Carvajal
 site_description:
@@ -87,3 +87,9 @@ nav:
     - Home: index.md  
     - Introducción a la Estadística y Ciencia de Datos:
         - Clase1.ipynb
+    - Estadística Descriptiva:
+    - Probabilidad y Distribuciones:
+    - Inferencia Estadística:
+    - Pruebas Paramétricas y No paramétricas:
+    - Regresión:
+    - Muestreo: 
