@@ -2,9 +2,9 @@
 
 ## Material
 
-El material está disponible en el siguiente [repositorio](https://github.com/dariemilith/Curso1), para obtener el código de fuente basta con que ejecutes el siguiente comando:
+El material está disponible en el siguiente [repositorio](https://github.com/dariemilith/DS_Intro_Estadistica_Curso), para obtener el código de fuente basta con que ejecutes el siguiente comando:
 
-> `https://github.com/dariemilith/Curso1`
+> `https://github.com/dariemilith/DS_Intro_Estadistica_Curso`
 
 
 ## Contenidos temáticos
