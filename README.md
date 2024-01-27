@@ -1,4 +1,4 @@
-# Curso de Python (----)
+# Curso de Python (--)
 
 ![example workflow](https://github.com/dariemilith/Template_Curso_Python/actions/workflows/documentation.yml/badge.svg)
 <a href="https://dariemilith.github.io/Template_Curso_Python/"><img alt="Link a la Documentación" src="https://img.shields.io/badge/docs-link-brightgreen"></a>
