@@ -86,15 +86,17 @@ plugins:
 nav: 
     - Home: index.md  
     - Introducción a la Estadística y Ciencia de Datos:
-        - Clase1.ipynb
+        - Intro_curso.ipynb
     - Estadística Descriptiva:
-        - Clase1.ipynb
+        - Intro_curso.ipynb
     - Probabilidad y Distribuciones:
-        - Clase1.ipynb
+        - Intro_curso.ipynb
     - Inferencia Estadística:
-        - Clase1.ipynb
+        - Intro_curso.ipynb
     - Pruebas Paramétricas y No paramétricas:
-        - Clase1.ipynb
+        - Intro_curso.ipynb
     - Regresión:
-        - Clase1.ipynb
+        - Intro_curso.ipynb
     - Muestreo: 
+        - Intro_curso.ipynb
+
