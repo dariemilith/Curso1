@@ -72,14 +72,14 @@ donde:
 ### [Readme.md](README.md)
 
 ```
-![example workflow](https://github.com/dariemilith/Template_Curso_Python/actions/workflows/documentation.yml/badge.svg)
-<a href="https://dariemilith.github.io/Template_Curso_Python/"><img alt="Link a la Documentación" src="https://img.shields.io/badge/docs-link-brightgreen"></a>
+![example workflow](https://github.com/dariemilith/Curso1/actions/workflows/documentation.yml/badge.svg)
+<a href="https://dariemilith.github.io/Curso1/"><img alt="Link a la Documentación" src="https://img.shields.io/badge/docs-link-brightgreen"></a>
 ```
 
 Debe cambiar:
 
 * **dariemilith**: nombre de usuario en github.
-* **Template_Curso_Python**: nombre del curso.
+* **Curso1**: nombre del curso.
 
 ### [`mkdocs.yml`](mkdocs.yml)
 
@@ -88,20 +88,20 @@ Debe cambiar:
 ```
 # Project information
 site_name: Descripcion del curso
-site_url: https://github.com/dariemilith/Template_Curso_Python
+site_url: https://github.com/dariemilith/Curso1
 site_author: Darinka Carvajal
 site_description:
 
 # Repository
-repo_name: dariemilith/Template_Curso_Python
-repo_url: https://github.com/dariemilith/Template_Curso_Python
+repo_name: dariemilith/Curso1
+repo_url: https://github.com/dariemilith/Curso1
 edit_uri: ''
 ```
 
 Debe cambiar:
 
 * **dariemilith**: nombre de usuario en github.
-* **Template_Curso_Python**: nombre del curso.
+* **Curso1**: nombre del curso.
 * **site_author**: Nombre del autor
 
 **Sección**: Theme
@@ -179,7 +179,7 @@ Introducción básica a Python
 El material está disponible en el siguiente [repositorio](https://github.com/dariemilith/Template_Curso_Python), para obtener el código de fuente basta con que ejecutes el siguiente comando:
 
 
-> `https://github.com/dariemilith/Template_Curso_Python`
+> `https://github.com/dariemilith/Curso1`
 
 
 ## Contenidos temáticos
