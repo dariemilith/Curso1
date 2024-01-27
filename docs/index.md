@@ -1,4 +1,4 @@
-# Fundamentos Estadísticos para la Ciencia de Datos
+# Introducción a la Estadística y Ciencia de Datos (Python y R)
 
 ## Material
 
