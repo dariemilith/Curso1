@@ -86,5 +86,4 @@ plugins:
 nav: 
     - Home: index.md  
     - Introducción a la Estadística y Ciencia de Datos:
-        - intro.ipynb
-        - basic.ipynb
+        - Clase1.ipynb
