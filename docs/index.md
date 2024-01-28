@@ -13,5 +13,6 @@ El material está disponible en el siguiente [repositorio](https://github.com/da
 * Estadística Descriptiva
 * Probabilidad y Distribuciones
 * Inferencia Estadística
+* Estadística Paramétrica y No Paramétrica
 * Regresión
 * Muestreo
