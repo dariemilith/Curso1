@@ -85,11 +85,9 @@ plugins:
 # TOC
 nav: 
     - Home: index.md  
-    - Introducción a la Estadística y Ciencia de Datos:
-      - Intro_curso.ipynb
+    - Introducción a la Estadística y Ciencia de Datos: Intro_curso.ipynb
     - Estadística Descriptiva:
-      - Material:
-      Estadística_descriptiva.ipynb
+        Estadística_descriptiva.ipynb
     # - Probabilidad y Distribuciones:
     #    - Intro_curso.ipynb
     # - Inferencia Estadística:
