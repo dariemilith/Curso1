@@ -89,14 +89,14 @@ nav:
       - Intro_curso.ipynb
     - Estadística Descriptiva:
        - Estadística_descriptiva.ipynb
-    - Probabilidad y Distribuciones:
-       - Intro_curso.ipynb
-    - Inferencia Estadística:
-       - Intro_curso.ipynb
-    - Pruebas Paramétricas y No paramétricas:
-       - Intro_curso.ipynb
-    - Regresión:
-       - Intro_curso.ipynb
-    - Muestreo: 
-       - Intro_curso.ipynb
+    # - Probabilidad y Distribuciones:
+    #    - Intro_curso.ipynb
+    # - Inferencia Estadística:
+    #    - Intro_curso.ipynb
+    # - Pruebas Paramétricas y No paramétricas:
+    #    - Intro_curso.ipynb
+    # - Regresión:
+    #    - Intro_curso.ipynb
+    # - Muestreo: 
+    #    - Intro_curso.ipynb
 
