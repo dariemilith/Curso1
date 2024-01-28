@@ -85,10 +85,10 @@ plugins:
 # TOC
 nav: 
     - Home: index.md  
-    - Lección 1: Introducción: 
+    - Lección 1 - Introducción: 
       - Intro_curso.ipynb
     #  - Intro_actividad
-    - Lección 2; Estadística Descriptiva:
+    - Lección 2 - Estadística Descriptiva:
       - Estadística_descriptiva.ipynb
     # - Probabilidad y Distribuciones:
     #    - Intro_curso.ipynb
