@@ -85,8 +85,6 @@ plugins:
 # TOC
 nav: 
     - Home: index.md  
-    - Leccion Forecast:
-      - Curso_Completo_Forecasting_Python.ipynb
     - Lección 1 - Introducción: 
       - Intro_curso.ipynb
     #  - Intro_actividad
